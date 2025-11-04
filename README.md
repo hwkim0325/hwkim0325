@@ -1,4 +1,4 @@
-# 🦐 About me
+# 🦐 **About me**
 
 <img src="https://github.com/user-attachments/assets/2f096f00-bc65-4156-b9ac-46917e397d03" height="250" /> <img src="https://github.com/user-attachments/assets/9d9e23f8-a087-489a-bce5-7c225da35839" height="250" />
 <br>
@@ -8,14 +8,14 @@ Master's in <b>Medical Engineering</b> · Bachelor's in <b>Computer Science</b> 
 Currently working in <b>Japan</b> since 2023. 🌸
 </p>
 
-# ❤️ &nbsp;**My passions**
+# ❤️ **My passions**
 - Computer Vision
 - Graphics
 - Simulation
 - Robotics
 - Algorithm Implementation
 
-# 🔧 &nbsp;**Language Usage**
+# 🔧 **Language Usage**
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
