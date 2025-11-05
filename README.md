@@ -5,7 +5,7 @@
 <p align="left">
 Hi, I'm Hyunwoo Kim ✨<br>
 Master's in <b>Medical Engineering</b> · Bachelor's in <b>Computer Science</b> 💻<br>
-Currently working in <b>Japan</b> since 2023. 🌸
+Currently working in <b>Japan</b> since 2023 🌸
 </p>
 
 # ❤️ **My passions**
